@@ -9,4 +9,4 @@ rm -v joomla*
 mv -v /tmp/src/configuration.php ./configuration.php
 
 # Fix source directory permissions
-#fix-permissions ./
+fix-permissions ./
